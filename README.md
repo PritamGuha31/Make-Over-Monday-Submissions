@@ -11,3 +11,6 @@ Repository of my entire Make Over Monday submissions. Make Over Monday is a week
   - [Week 51](https://github.com/PritamGuha31/Make-Over-Monday-Submissions/tree/master/Year%202019/Week%2051)
   - [Week 52](https://github.com/PritamGuha31/Make-Over-Monday-Submissions/tree/master/Year%202019/Week%2052)
   - [Week 53](https://github.com/PritamGuha31/Make-Over-Monday-Submissions/tree/master/Year%202019/Week%2053)
+  
+- [2020 Submissions](https://github.com/PritamGuha31/Make-Over-Monday-Submissions/tree/master/Year%202020)
+  - [Week 1](https://github.com/PritamGuha31/Make-Over-Monday-Submissions/tree/master/Year%202020/Week%201)
